@@ -31,3 +31,13 @@ print("I am an %s by birth." % my_star_sign)
 print("My height is %d cms" % (my_height))
 
 # Important lesson to remember. The book does not close all comands with parenthesis . You have to open and close all parenthesis to execute without errors.
+
+#Trying to use more formatted strings
+
+#The following text will make no sense at all
+
+a = 'Thanks to Jason I have written %d lines of code.' %25
+b = 'A lot of this still doesnt make too much sense its like a toy'
+
+print (a+b) 
+print ("Coders find this interesting but %s ." % b)
