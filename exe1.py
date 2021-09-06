@@ -41,3 +41,9 @@ b = 'A lot of this still doesnt make too much sense its like a toy'
 
 print (a+b) 
 print ("Coders find this interesting but %s ." % b)
+
+#More typing code 
+
+curry = "%s %s %s %s" # Switching between %r and %s makes change the output 
+print (curry % (1,2,3,4))
+print (curry % ("red","green","blue","yellow"))
