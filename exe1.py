@@ -56,3 +56,9 @@ shapes = "\nSquare \nCircle \nRectangle \nTriangle"
 
 print("The colours are",colours)
 print("These are the shape of my heart", shapes)
+
+
+print("""we can write multiple lines without the print command now
+this makes sense for paragraphs
+Lets see hoow much we caan do.
+whats up""")
