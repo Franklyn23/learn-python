@@ -47,3 +47,12 @@ print ("Coders find this interesting but %s ." % b)
 curry = "%s %s %s %s" # Switching between %r and %s makes change the output 
 print (curry % (1,2,3,4))
 print (curry % ("red","green","blue","yellow"))
+
+
+#More typing exercises
+
+colours = "red green blue black"
+shapes = "\nSquare \nCircle \nRectangle \nTriangle"
+
+print("The colours are",colours)
+print("These are the shape of my heart", shapes)
