@@ -62,3 +62,17 @@ print("""we can write multiple lines without the print command now
 this makes sense for paragraphs
 Lets see hoow much we caan do.
 whats up""")
+
+
+#New day new styles and new learning
+
+alpha = "This \nis \n\trandom shit"
+beta = "\tTrying out \"weird\" \tstuff"
+omega = "#1 \t#2 \n#3"
+gamma = '''Today isa good day 
+we gonna type
+secondo
+makee
+'''
+
+print(alpha+beta+gamma+omega)
