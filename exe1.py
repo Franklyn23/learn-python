@@ -76,3 +76,12 @@ makee
 '''
 
 print(alpha+beta+gamma+omega)
+
+#Inputting Data
+
+print("which bus goes to A?",)
+busno = input()
+print("What time does the bus come?",)
+bustime = input()
+
+print("Bus number %s goes to ABC and arrivres at %s minutes."% (busno,bustime))
